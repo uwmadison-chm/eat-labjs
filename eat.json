@@ -132,15 +132,7 @@
         ]
       },
       "messageHandlers": {
-        "rows": [
-          [
-            {
-              "title": "Comments",
-              "message": "run",
-              "code": "/*\nEmpathic Accuracy Task\n\nTODO: Kral citation for this\n\nSome notes about this task...\n*/"
-            }
-          ]
-        ]
+        "rows": []
       },
       "viewport": [
         800,
