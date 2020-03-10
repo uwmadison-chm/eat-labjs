@@ -16,4 +16,4 @@ we are using must be behind a login/password.
 To configure, load the JSON file into lab.js. Export for whatever hosting 
 strategy you plan to use.
 
-To analyze the data, see [uwmadison-chm/eat-analysis](https://github.com/uwmadison-chm/eat-analysis).
+To analyze the data, see [uwmadison-chm/eat-labjs-analysis](https://github.com/uwmadison-chm/eat-labjs-analysis).
