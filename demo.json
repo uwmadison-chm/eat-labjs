@@ -1,0 +1,1013 @@
+{
+  "components": {
+    "1": {
+      "id": "1",
+      "type": "lab.canvas.Screen",
+      "content": [
+        {
+          "type": "i-text",
+          "version": "2.7.0",
+          "originX": "center",
+          "originY": "center",
+          "left": 0,
+          "top": -215,
+          "width": 586.32,
+          "height": 120.05,
+          "fill": "#ffffff",
+          "stroke": "#dddddd",
+          "strokeWidth": 1,
+          "strokeDashArray": null,
+          "strokeLineCap": "butt",
+          "strokeDashOffset": 0,
+          "strokeLineJoin": "round",
+          "strokeMiterLimit": 4,
+          "scaleX": 1,
+          "scaleY": 1,
+          "angle": 0,
+          "flipX": false,
+          "flipY": false,
+          "opacity": 1,
+          "shadow": null,
+          "visible": true,
+          "clipTo": null,
+          "backgroundColor": "",
+          "fillRule": "nonzero",
+          "paintFirst": "fill",
+          "globalCompositeOperation": "source-over",
+          "transformMatrix": null,
+          "skewX": 0,
+          "skewY": 0,
+          "text": "You will see a series of videos.\nEach video will have a person telling\na personal story.",
+          "fontSize": 32,
+          "fontWeight": "normal",
+          "fontFamily": "sans-serif",
+          "fontStyle": "normal",
+          "lineHeight": 1.16,
+          "underline": false,
+          "overline": false,
+          "linethrough": false,
+          "textAlign": "center",
+          "textBackgroundColor": "",
+          "charSpacing": 0,
+          "id": "3",
+          "styles": {}
+        },
+        {
+          "type": "i-text",
+          "version": "2.7.0",
+          "originX": "center",
+          "originY": "center",
+          "left": 0,
+          "top": 263,
+          "width": 308.34,
+          "height": 27.12,
+          "fill": "#ffffff",
+          "stroke": "#dddddd",
+          "strokeWidth": 1,
+          "strokeDashArray": null,
+          "strokeLineCap": "butt",
+          "strokeDashOffset": 0,
+          "strokeLineJoin": "round",
+          "strokeMiterLimit": 4,
+          "scaleX": 1,
+          "scaleY": 1,
+          "angle": 0,
+          "flipX": false,
+          "flipY": false,
+          "opacity": 1,
+          "shadow": null,
+          "visible": true,
+          "clipTo": null,
+          "backgroundColor": "",
+          "fillRule": "nonzero",
+          "paintFirst": "fill",
+          "globalCompositeOperation": "source-over",
+          "transformMatrix": null,
+          "skewX": 0,
+          "skewY": 0,
+          "text": "Press any key to continue",
+          "fontSize": "24",
+          "fontWeight": "normal",
+          "fontFamily": "sans-serif",
+          "fontStyle": "normal",
+          "lineHeight": 1.16,
+          "underline": false,
+          "overline": false,
+          "linethrough": false,
+          "textAlign": "center",
+          "textBackgroundColor": "",
+          "charSpacing": 0,
+          "id": "25",
+          "styles": {}
+        },
+        {
+          "type": "i-text",
+          "version": "2.7.0",
+          "originX": "center",
+          "originY": "center",
+          "left": 0,
+          "top": -40,
+          "width": 568.8,
+          "height": 120.05,
+          "fill": "#ffffff",
+          "stroke": "#dddddd",
+          "strokeWidth": 1,
+          "strokeDashArray": null,
+          "strokeLineCap": "butt",
+          "strokeDashOffset": 0,
+          "strokeLineJoin": "round",
+          "strokeMiterLimit": 4,
+          "scaleX": 1,
+          "scaleY": 1,
+          "angle": 0,
+          "flipX": false,
+          "flipY": false,
+          "opacity": 1,
+          "shadow": null,
+          "visible": true,
+          "clipTo": null,
+          "backgroundColor": "",
+          "fillRule": "nonzero",
+          "paintFirst": "fill",
+          "globalCompositeOperation": "source-over",
+          "transformMatrix": null,
+          "skewX": 0,
+          "skewY": 0,
+          "text": "The video will appear on the center\nof the screen with a rating scale\nbelow and a question above.",
+          "fontSize": 32,
+          "fontWeight": "normal",
+          "fontFamily": "sans-serif",
+          "fontStyle": "normal",
+          "lineHeight": 1.16,
+          "underline": false,
+          "overline": false,
+          "linethrough": false,
+          "textAlign": "center",
+          "textBackgroundColor": "",
+          "charSpacing": 0,
+          "id": "46",
+          "styles": {}
+        },
+        {
+          "type": "i-text",
+          "version": "2.7.0",
+          "originX": "center",
+          "originY": "center",
+          "left": 0,
+          "top": 115,
+          "width": 773.6,
+          "height": 78.11,
+          "fill": "#ffffff",
+          "stroke": "#dddddd",
+          "strokeWidth": 1,
+          "strokeDashArray": null,
+          "strokeLineCap": "butt",
+          "strokeDashOffset": 0,
+          "strokeLineJoin": "round",
+          "strokeMiterLimit": 4,
+          "scaleX": 1,
+          "scaleY": 1,
+          "angle": 0,
+          "flipX": false,
+          "flipY": false,
+          "opacity": 1,
+          "shadow": null,
+          "visible": true,
+          "clipTo": null,
+          "backgroundColor": "",
+          "fillRule": "nonzero",
+          "paintFirst": "fill",
+          "globalCompositeOperation": "source-over",
+          "transformMatrix": null,
+          "skewX": 0,
+          "skewY": 0,
+          "text": "Your task is to watch the video closely and\nmake ratings by moving the mouse or trackpad.",
+          "fontSize": 32,
+          "fontWeight": "normal",
+          "fontFamily": "sans-serif",
+          "fontStyle": "normal",
+          "lineHeight": 1.16,
+          "underline": false,
+          "overline": false,
+          "linethrough": false,
+          "textAlign": "center",
+          "textBackgroundColor": "",
+          "charSpacing": 0,
+          "id": "47",
+          "styles": {}
+        }
+      ],
+      "files": {
+        "rows": []
+      },
+      "parameters": {
+        "rows": [
+          [
+            {
+              "name": "",
+              "value": "",
+              "type": "string"
+            }
+          ]
+        ]
+      },
+      "responses": {
+        "rows": [
+          [
+            "",
+            "keypress",
+            "",
+            ""
+          ]
+        ]
+      },
+      "messageHandlers": {
+        "rows": []
+      },
+      "viewport": [
+        800,
+        600
+      ],
+      "title": "Instructions 1",
+      "_tab": "Behavior"
+    },
+    "2": {
+      "id": "2",
+      "type": "lab.canvas.Screen",
+      "content": [
+        {
+          "type": "i-text",
+          "version": "2.7.0",
+          "originX": "center",
+          "originY": "center",
+          "left": 0,
+          "top": -215,
+          "width": 443.04,
+          "height": 54.24,
+          "fill": "#ffffff",
+          "stroke": "#dddddd",
+          "strokeWidth": 1,
+          "strokeDashArray": null,
+          "strokeLineCap": "butt",
+          "strokeDashOffset": 0,
+          "strokeLineJoin": "round",
+          "strokeMiterLimit": 4,
+          "scaleX": 1,
+          "scaleY": 1,
+          "angle": 0,
+          "flipX": false,
+          "flipY": false,
+          "opacity": 1,
+          "shadow": null,
+          "visible": true,
+          "clipTo": null,
+          "backgroundColor": "",
+          "fillRule": "nonzero",
+          "paintFirst": "fill",
+          "globalCompositeOperation": "source-over",
+          "transformMatrix": null,
+          "skewX": 0,
+          "skewY": 0,
+          "text": "What do you rate?",
+          "fontSize": "48",
+          "fontWeight": "normal",
+          "fontFamily": "sans-serif",
+          "fontStyle": "normal",
+          "lineHeight": 1.16,
+          "underline": false,
+          "overline": false,
+          "linethrough": false,
+          "textAlign": "center",
+          "textBackgroundColor": "",
+          "charSpacing": 0,
+          "id": "3",
+          "styles": {}
+        },
+        {
+          "type": "i-text",
+          "version": "2.7.0",
+          "originX": "center",
+          "originY": "center",
+          "left": 0,
+          "top": 263,
+          "width": 308.34,
+          "height": 27.12,
+          "fill": "#ffffff",
+          "stroke": "#dddddd",
+          "strokeWidth": 1,
+          "strokeDashArray": null,
+          "strokeLineCap": "butt",
+          "strokeDashOffset": 0,
+          "strokeLineJoin": "round",
+          "strokeMiterLimit": 4,
+          "scaleX": 1,
+          "scaleY": 1,
+          "angle": 0,
+          "flipX": false,
+          "flipY": false,
+          "opacity": 1,
+          "shadow": null,
+          "visible": true,
+          "clipTo": null,
+          "backgroundColor": "",
+          "fillRule": "nonzero",
+          "paintFirst": "fill",
+          "globalCompositeOperation": "source-over",
+          "transformMatrix": null,
+          "skewX": 0,
+          "skewY": 0,
+          "text": "Press any key to continue",
+          "fontSize": "24",
+          "fontWeight": "normal",
+          "fontFamily": "sans-serif",
+          "fontStyle": "normal",
+          "lineHeight": 1.16,
+          "underline": false,
+          "overline": false,
+          "linethrough": false,
+          "textAlign": "center",
+          "textBackgroundColor": "",
+          "charSpacing": 0,
+          "id": "25",
+          "styles": {}
+        },
+        {
+          "type": "i-text",
+          "version": "2.7.0",
+          "originX": "center",
+          "originY": "center",
+          "left": 0,
+          "top": -100,
+          "width": 723.75,
+          "height": 78.11,
+          "fill": "#ffffff",
+          "stroke": "#dddddd",
+          "strokeWidth": 1,
+          "strokeDashArray": null,
+          "strokeLineCap": "butt",
+          "strokeDashOffset": 0,
+          "strokeLineJoin": "round",
+          "strokeMiterLimit": 4,
+          "scaleX": 1,
+          "scaleY": 1,
+          "angle": 0,
+          "flipX": false,
+          "flipY": false,
+          "opacity": 1,
+          "shadow": null,
+          "visible": true,
+          "clipTo": null,
+          "backgroundColor": "",
+          "fillRule": "nonzero",
+          "paintFirst": "fill",
+          "globalCompositeOperation": "source-over",
+          "transformMatrix": null,
+          "skewX": 0,
+          "skewY": 0,
+          "text": "You will see a word appear before each video\nthat tells you what to rate.",
+          "fontSize": 32,
+          "fontWeight": "normal",
+          "fontFamily": "sans-serif",
+          "fontStyle": "normal",
+          "lineHeight": 1.16,
+          "underline": false,
+          "overline": false,
+          "linethrough": false,
+          "textAlign": "center",
+          "textBackgroundColor": "",
+          "charSpacing": 0,
+          "id": "46",
+          "styles": {}
+        },
+        {
+          "type": "i-text",
+          "version": "2.7.0",
+          "originX": "center",
+          "originY": "center",
+          "left": 0,
+          "top": 15,
+          "width": 731.36,
+          "height": 78.11,
+          "fill": "#ffffff",
+          "stroke": "#dddddd",
+          "strokeWidth": 1,
+          "strokeDashArray": null,
+          "strokeLineCap": "butt",
+          "strokeDashOffset": 0,
+          "strokeLineJoin": "round",
+          "strokeMiterLimit": 4,
+          "scaleX": 1,
+          "scaleY": 1,
+          "angle": 0,
+          "flipX": false,
+          "flipY": false,
+          "opacity": 1,
+          "shadow": null,
+          "visible": true,
+          "clipTo": null,
+          "backgroundColor": "",
+          "fillRule": "nonzero",
+          "paintFirst": "fill",
+          "globalCompositeOperation": "source-over",
+          "transformMatrix": null,
+          "skewX": 0,
+          "skewY": 0,
+          "text": "The word you see before the video will match\nthe question that appears above the video.",
+          "fontSize": 32,
+          "fontWeight": "normal",
+          "fontFamily": "sans-serif",
+          "fontStyle": "normal",
+          "lineHeight": 1.16,
+          "underline": false,
+          "overline": false,
+          "linethrough": false,
+          "textAlign": "center",
+          "textBackgroundColor": "",
+          "charSpacing": 0,
+          "id": "47",
+          "styles": {}
+        },
+        {
+          "type": "i-text",
+          "version": "2.7.0",
+          "originX": "center",
+          "originY": "center",
+          "left": 0,
+          "top": 150,
+          "width": 691.75,
+          "height": 120.05,
+          "fill": "#ffffff",
+          "stroke": "#dddddd",
+          "strokeWidth": 1,
+          "strokeDashArray": null,
+          "strokeLineCap": "butt",
+          "strokeDashOffset": 0,
+          "strokeLineJoin": "round",
+          "strokeMiterLimit": 4,
+          "scaleX": 1,
+          "scaleY": 1,
+          "angle": 0,
+          "flipX": false,
+          "flipY": false,
+          "opacity": 1,
+          "shadow": null,
+          "visible": true,
+          "clipTo": null,
+          "backgroundColor": "",
+          "fillRule": "nonzero",
+          "paintFirst": "fill",
+          "globalCompositeOperation": "source-over",
+          "transformMatrix": null,
+          "skewX": 0,
+          "skewY": 0,
+          "text": "You can change the the rating at ANY time.\nEvery time there is any change,\nadjust the rating.",
+          "fontSize": 32,
+          "fontWeight": "normal",
+          "fontFamily": "sans-serif",
+          "fontStyle": "normal",
+          "lineHeight": 1.16,
+          "underline": false,
+          "overline": false,
+          "linethrough": false,
+          "textAlign": "center",
+          "textBackgroundColor": "",
+          "charSpacing": 0,
+          "id": "48",
+          "styles": {}
+        }
+      ],
+      "files": {
+        "rows": []
+      },
+      "parameters": {
+        "rows": [
+          [
+            {
+              "name": "",
+              "value": "",
+              "type": "string"
+            }
+          ]
+        ]
+      },
+      "responses": {
+        "rows": [
+          [
+            "",
+            "keypress",
+            "",
+            ""
+          ]
+        ]
+      },
+      "messageHandlers": {
+        "rows": []
+      },
+      "viewport": [
+        800,
+        600
+      ],
+      "title": "Instructions 2",
+      "_tab": "Behavior"
+    },
+    "3": {
+      "id": "3",
+      "type": "lab.html.Screen",
+      "files": {
+        "rows": []
+      },
+      "parameters": {
+        "rows": [
+          [
+            {
+              "name": "",
+              "value": "",
+              "type": "string"
+            }
+          ]
+        ]
+      },
+      "responses": {
+        "rows": [
+          [
+            "",
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "messageHandlers": {
+        "rows": [
+          [
+            {
+              "title": "Video player",
+              "message": "run",
+              "code": "var picurl = \"https://brainimaging.waisman.wisc.edu/~dfitch/faces/\"\nvar comp = this;\nvar body = document.getElementsByTagName('body')[0];\nvar container = document.getElementsByClassName(\"container\")[0];\nvar title = document.getElementById(\"title\");\nvar left_text = document.getElementById(\"left_text\");\nvar right_text = document.getElementById(\"right_text\");\nvar player_container = document.getElementById(\"player_container\");\nvar player = document.getElementById(\"player\");\n\nvar rating = document.getElementById(\"rating\");\nvar marker = document.getElementById(\"marker\");\n\nvar canplay = false;\nvar canrate = true;\nvar start_time;\nvar data = [];\n\nvar rating_width;\nvar width;\nvar margin; \nvar marker_width;\nvar marker_max;\n\npicture_index = Math.trunc(this.state.rng() * 5 + 1);\nplayer.src = picurl + \"face\" + picture_index + \".jpg\";\n\nfunction userResize(){\n  rating_width = rating.offsetWidth;\n  width = window.innerWidth;\n  margin = (width - rating_width) / 2.0; \n  marker_width = marker.clientWidth;\n  marker_max = rating_width - (marker_width * 0.52) - (margin / 2.0);\n}\n\nfunction centerMarker(){\n  marker.style.left = String(rating_width / 2 - (marker_width * 0.5)) + \"px\";\n}\n\nwindow.performance = window.performance || {};\nperformance.now = (function() {\n    return performance.now    ||\n        performance.mozNow    ||\n        performance.msNow     ||\n        performance.oNow      ||\n        performance.webkitNow ||            \n        Date.now  /*none found - fallback to browser default */\n})();\n\nfunction hideCursor(){\n  body.className = 'nocursor';\n}\n\nfunction showCursor(){\n  body.className = '';\n}\n\nfunction mouseMove(e){\n  if (!canrate) {\n    return;\n  }\n\n  current_x = e.pageX - margin;\n\n  // constrain to rating box\n  if (current_x < 0) {\n    current_x = 0\n  } else if (current_x > marker_max) {\n    current_x = marker_max\n  }\n\n  marker.style.left = current_x + \"px\";\n\n  // normalize x by rating width when storing\n  var stored_x = current_x / (rating_width - marker_width)\n  data.push({\n    value: stored_x,\n    playerTime: player.currentTime,\n    browserTime: performance.now() - start_time,\n  });\n}\n\ndocument.addEventListener('mousemove', mouseMove, false);\ndocument.addEventListener('resize', userResize, true);\n\nuserResize();\ncenterMarker();\nhideCursor();\n\n"
+            }
+          ]
+        ]
+      },
+      "title": "Video - Continuous",
+      "content": "\n<div id=\"grid_container\">\n  <div id=\"title_container\">\n    <h1 id=\"title\">How is this person feeling?</h1>\n  </div>\n\n  <div id=\"player_container\">\n    <img id=\"player\" src=\"face3.jpg\">\n  </div>\n\n  <div id=\"rating\">\n    <div id=\"left_text\">Negative</div>\n    <div id=\"right_text\">Positive</div>\n    <div id=\"bar\">\n      <div id=\"marker\">\n        &nbsp;\n      </div>\n      <div id=\"line\">\n        <span id=\"middle\"></span>\n      </div>\n    </div>\n  </div>\n</div>",
+      "_tab": "Scripts",
+      "timeout": "5000"
+    },
+    "7": {
+      "id": "7",
+      "type": "lab.flow.Loop",
+      "children": [
+        "10"
+      ],
+      "files": {
+        "rows": []
+      },
+      "parameters": {
+        "rows": [
+          [
+            {
+              "name": "",
+              "value": "",
+              "type": "string"
+            }
+          ]
+        ]
+      },
+      "templateParameters": {
+        "columns": [
+          {
+            "name": "number",
+            "type": "string"
+          },
+          {
+            "name": "",
+            "type": "string"
+          }
+        ],
+        "rows": [
+          [
+            "1",
+            ""
+          ],
+          [
+            "2",
+            ""
+          ]
+        ]
+      },
+      "sample": {
+        "mode": "sequential"
+      },
+      "responses": {
+        "rows": [
+          [
+            "",
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "messageHandlers": {
+        "rows": [
+          [
+            {
+              "title": "prepare",
+              "message": "before:prepare",
+              "code": "this.state.DEBUG = false;\n\nfunction getParameterByName(name, url) {\n    if (!url) url = window.location.href;\n    name = name.replace(/[\\[\\]]/g, '\\\\$&');\n    var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),\n        results = regex.exec(url);\n    if (!results) return null;\n    if (!results[2]) return '';\n    return decodeURIComponent(results[2].replace(/\\+/g, ' '));\n}\n\nthis.state.ppt = getParameterByName('PPT') || 0;\nthis.state.session = getParameterByName('session') || 0;\nthis.state.seed = String(this.state.ppt) + '/' + String(this.state.session);\nif (this.state.DEBUG) {\n  console.log(\"Random seed is\", this.state.seed);\n}\n\nthis.state.random = new lab.util.Random({\n  algorithm: 'alea',\n  seed: this.state.seed\n});\n\n// Make a predictable pseudorandom number generator based on ppt and session id\nthis.state.rng = new Math.seedrandom(this.state.seed);\n\n// Init the possible video lists, so we can pull without replacement\nthis.state.positive_videos = [\n\"1-EA408-P4.mp4\",\n\"1-EA414-P2.mp4\",\n\"1-EA417-P2.mp4\",\n\"2-EA418-P1.mp4\",\n\"3-EA402-P4.mp4\",\n\"3-EA403-P1.mp4\",\n\"3-EA416-P4.mp4\",\n\"3-EA417-P4.mp4\",\n\"4-EA401-P3.mp4\",\n\"4-EA402-P2.mp4\",\n\"4-EA408-P2.mp4\",\n\"4-EA411-P4.mp4\",\n\"4-EA419-P4.mp4\",\n\"5-EA416-P1.mp4\",\n\"6-EA407-P1.mp4\",\n\"6-EA411-P2.mp4\",\n\"6-EA418-P2.mp4\",\n\"6-EA419-P3.mp4\",\n\"7-EA403-P3.mp4\",\n\"7-EA419-P1.mp4\",\n\"8-EA401-P4.mp4\",\n];\n\nthis.state.negative_videos = [\n\"1-EA402-N2.mp4\",\n\"1-EA407-N2.mp4\",\n\"1-EA418-N3.mp4\",\n\"2-EA411-N1.mp4\",\n\"2-EA414-N4.mp4\",\n\"2-EA416-N2.mp4\",\n\"2-EA417-N4.mp4\",\n\"3-EA408-N4.mp4\",\n\"4-EA418-N1.mp4\",\n\"5-EA401-N2.mp4\",\n\"5-EA402-N1.mp4\",\n\"5-EA403-N3.mp4\",\n\"5-EA408-N1.mp4\",\n\"5-EA411-N4.mp4\",\n\"5-EA417-N3.mp4\",\n\"5-EA419-N2.mp4\",\n\"7-EA401-N3.mp4\",\n\"8-EA403-N2.mp4\",\n\"8-EA416-N1.mp4\",\n\"8-EA419-N4.mp4\",\n];\n\n"
+            }
+          ]
+        ]
+      },
+      "title": "Experiment",
+      "_tab": "Content"
+    },
+    "8": {
+      "id": "8",
+      "type": "lab.flow.Loop",
+      "children": [
+        "12"
+      ],
+      "files": {
+        "rows": []
+      },
+      "parameters": {
+        "rows": [
+          [
+            {
+              "name": "",
+              "value": "",
+              "type": "string"
+            }
+          ]
+        ]
+      },
+      "templateParameters": {
+        "columns": [
+          {
+            "name": "cue",
+            "type": "string"
+          },
+          {
+            "name": "affect",
+            "type": "string"
+          }
+        ],
+        "rows": [
+          [
+            "self",
+            "positive"
+          ],
+          [
+            "self",
+            "negative"
+          ],
+          [
+            "other",
+            "positive"
+          ],
+          [
+            "other",
+            "negative"
+          ],
+          [
+            "gaze",
+            "positive"
+          ],
+          [
+            "gaze",
+            "negative"
+          ]
+        ]
+      },
+      "sample": {
+        "mode": "draw-shuffle",
+        "n": "6"
+      },
+      "responses": {
+        "rows": [
+          [
+            "",
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "messageHandlers": {
+        "rows": [
+          [
+            {
+              "title": "pseudorandom init",
+              "message": "before:prepare",
+              "code": "this.random = this.state.random;"
+            }
+          ]
+        ]
+      },
+      "title": "Trials",
+      "_tab": "Content"
+    },
+    "10": {
+      "id": "10",
+      "type": "lab.flow.Sequence",
+      "children": [
+        "8",
+        "11"
+      ],
+      "files": {
+        "rows": []
+      },
+      "parameters": {
+        "rows": [
+          [
+            {
+              "name": "",
+              "value": "",
+              "type": "string"
+            }
+          ]
+        ]
+      },
+      "responses": {
+        "rows": [
+          [
+            "",
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "messageHandlers": {
+        "rows": [
+          [
+            {
+              "title": "",
+              "message": "",
+              "code": ""
+            }
+          ]
+        ]
+      },
+      "title": "Block (trials then break)",
+      "_tab": "Scripts"
+    },
+    "11": {
+      "id": "11",
+      "type": "lab.html.Screen",
+      "files": {
+        "rows": []
+      },
+      "parameters": {
+        "rows": [
+          [
+            {
+              "name": "",
+              "value": "",
+              "type": "string"
+            }
+          ]
+        ]
+      },
+      "responses": {
+        "rows": [
+          [
+            "click",
+            "click",
+            "",
+            ""
+          ]
+        ]
+      },
+      "messageHandlers": {
+        "rows": [
+          [
+            {
+              "title": "",
+              "message": "",
+              "code": ""
+            }
+          ]
+        ]
+      },
+      "title": "Break",
+      "content": "<h1 id=\"title\">Time to take a break.</h1>\n\n<p>Click when ready to continue.</p>",
+      "_tab": "Behavior",
+      "skip": false,
+      "skipCondition": "${this.parameters.number == 2}"
+    },
+    "12": {
+      "id": "12",
+      "type": "lab.flow.Sequence",
+      "children": [
+        "13",
+        "3"
+      ],
+      "files": {
+        "rows": []
+      },
+      "parameters": {
+        "rows": [
+          [
+            {
+              "name": "",
+              "value": "",
+              "type": "string"
+            }
+          ]
+        ]
+      },
+      "responses": {
+        "rows": [
+          [
+            "",
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "messageHandlers": {
+        "rows": [
+          [
+            {
+              "title": "",
+              "message": "",
+              "code": ""
+            }
+          ]
+        ]
+      },
+      "title": "Trial sequence"
+    },
+    "13": {
+      "id": "13",
+      "type": "lab.canvas.Screen",
+      "content": [
+        {
+          "type": "i-text",
+          "version": "2.7.0",
+          "originX": "center",
+          "originY": "center",
+          "left": 0,
+          "top": 0,
+          "width": 40.68,
+          "height": 81.36,
+          "fill": "#ffffff",
+          "stroke": "#000000",
+          "strokeWidth": 1,
+          "strokeDashArray": null,
+          "strokeLineCap": "butt",
+          "strokeDashOffset": 0,
+          "strokeLineJoin": "round",
+          "strokeMiterLimit": 4,
+          "scaleX": 1,
+          "scaleY": 1,
+          "angle": 0,
+          "flipX": false,
+          "flipY": false,
+          "opacity": 1,
+          "shadow": null,
+          "visible": true,
+          "clipTo": null,
+          "backgroundColor": "",
+          "fillRule": "nonzero",
+          "paintFirst": "fill",
+          "globalCompositeOperation": "source-over",
+          "transformMatrix": null,
+          "skewX": 0,
+          "skewY": 0,
+          "text": "+",
+          "fontSize": "72",
+          "fontWeight": "normal",
+          "fontFamily": "Times New Roman",
+          "fontStyle": "normal",
+          "lineHeight": 1.16,
+          "underline": false,
+          "overline": false,
+          "linethrough": false,
+          "textAlign": "center",
+          "textBackgroundColor": "",
+          "charSpacing": 0,
+          "id": "88",
+          "styles": {}
+        }
+      ],
+      "files": {
+        "rows": []
+      },
+      "parameters": {
+        "rows": [
+          [
+            {
+              "name": "",
+              "value": "",
+              "type": "string"
+            }
+          ]
+        ]
+      },
+      "responses": {
+        "rows": [
+          [
+            "",
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      "messageHandlers": {
+        "rows": [
+          [
+            {
+              "title": "",
+              "message": "",
+              "code": ""
+            }
+          ]
+        ]
+      },
+      "viewport": [
+        800,
+        600
+      ],
+      "title": "Fixation cross",
+      "_tab": "Behavior",
+      "timeout": "500"
+    },
+    "root": {
+      "id": "root",
+      "title": "root",
+      "type": "lab.flow.Sequence",
+      "children": [
+        "1",
+        "2",
+        "7"
+      ],
+      "parameters": {
+        "rows": [
+          [
+            {
+              "name": "",
+              "value": "",
+              "type": "string"
+            }
+          ]
+        ]
+      },
+      "plugins": [
+        {
+          "type": "lab.plugins.Metadata"
+        }
+      ],
+      "metadata": {
+        "title": "EATD - Empathic Accuracy Task Demo",
+        "description": "For filming...",
+        "repository": "",
+        "contributors": "Dan Fitch <dfitch@wisc.edu>"
+      }
+    }
+  },
+  "version": [
+    19,
+    1,
+    1
+  ],
+  "files": {
+    "files": {
+      "index.html": {
+        "content": "data:text/html,%3C!doctype%20html%3E%0A%3Chtml%3E%0A%3Chead%3E%0A%20%20%3Cmeta%20charset%3D%22utf-8%22%3E%0A%20%20%3Ctitle%3EExperiment%3C%2Ftitle%3E%0A%20%20%3C!--%20viewport%20setup%20--%3E%0A%20%20%3Cmeta%20name%3D%22viewport%22%20content%3D%22width%3Ddevice-width%2C%20initial-scale%3D1%22%3E%0A%20%20%3C!--%20lab.js%20library%20and%20experiment%20code%20--%3E%0A%20%20%24%7B%20header%20%7D%0A%3C%2Fhead%3E%0A%3Cbody%3E%0A%20%20%3C!--%20If%20you'd%20rather%20have%20a%20container%20with%20a%20fixed%20width%0A%20%20%20%20%20%20%20and%20variable%20height%2C%20try%20removing%20the%20fullscreen%20class%20below%20--%3E%0A%20%20%3Cdiv%20class%3D%22container%20fullscreen%22%20data-labjs-section%3D%22main%22%3E%0A%20%20%20%20%3Cmain%20class%3D%22content-vertical-center%20content-horizontal-center%22%3E%0A%20%20%20%20%20%20%3Cdiv%3E%0A%20%20%20%20%20%20%20%20%3Ch2%3ELoading%20Experiment%3C%2Fh2%3E%0A%20%20%20%20%20%20%20%20%3Cp%3EThe%20experiment%20is%20loading%20and%20should%20start%20in%20a%20few%20seconds%3C%2Fp%3E%0A%20%20%20%20%20%20%3C%2Fdiv%3E%0A%20%20%20%20%3C%2Fmain%3E%0A%20%20%3C%2Fdiv%3E%0A%3C%2Fbody%3E%0A%3C%2Fhtml%3E%0A",
+        "source": "library"
+      },
+      "style.css": {
+        "content": "data:text/css,body%20%7B%0A%20%20color%3A%20white%3B%0A%20%20background-color%3A%20black%3B%0A%7D%0A%0Ah1%20%7B%0A%20%20margin%3A%200%3B%0A%7D%0A%0A.container%20%7B%20border%3A%20none%3B%20%7D%0A%0A.nocursor%20%7B%20cursor%3A%20none%3B%20%7D%0A%0A%23grid_container%20%7B%0A%20%20display%3A%20grid%3B%0A%20%20align-items%3A%20stretch%3B%0A%20%20grid-template-columns%3A%201fr%3B%0A%20%20grid-template-rows%3A%201fr%202fr%201fr%3B%0A%20%20width%3A%20100%25%3B%0A%20%20height%3A%2080vh%3B%0A%20%20margin%3A%200%3B%0A%20%20padding%3A%200%204em%3B%0A%7D%0A%0Avideo%3A%3A-webkit-media-controls-fullscreen-button%2Cvideo%3A%3A-webkit-media-controls-play-button%2C%20video%3A%3A-webkit-media-controls-pausebutton%20%7B%0A%20%20%20%20display%3A%20none%3B%0A%7D%0A%0A%23title%20%7B%0A%20%20text-align%3A%20center%3B%0A%7D%0A%0A%23player_container%20%7B%0A%20%20margin%3A%200%20auto%3B%0A%20%20max-height%3A%2050vh%3B%0A%7D%0A%0A%23player%20%7B%0A%20%20width%3A%20100%25%3B%0A%20%20height%3A%20100%25%3B%0A%20%20max-height%3A%2050vh%3B%0A%20%20max-width%3A%2090vw%3B%0A%7D%0A%0A%23bar%20%7B%0A%20%20display%3A%20block%3B%0A%20%20width%3A%20100%25%3B%0A%20%20margin-top%3A%201em%3B%0A%20%20margin-bottom%3A%201em%3B%0A%7D%0A%0A%23line%20%7B%0A%20%20display%3A%20block%3B%0A%20%20position%3A%20relative%3B%0A%20%20top%3A%20-2em%3B%0A%20%20text-align%3A%20center%3B%0A%20%20height%3A%202em%3B%0A%20%20margin-left%3A%202em%3B%0A%20%20margin-right%3A%202em%3B%0A%20%20border%3A%200.2em%20solid%20%23fff%3B%0A%20%20border-bottom%3A%20none%3B%0A%7D%0A%0A%23middle%20%7B%0A%20%20height%3A%204em%3B%0A%20%20position%3A%20relative%3B%0A%20%20top%3A%20-0.2em%3B%0A%20%20border-left%3A%200.1em%20solid%20%23fff%3B%0A%20%20border-right%3A%200.1em%20solid%20%23fff%3B%0A%7D%0A%0A%23marker%20%7B%0A%20%20display%3A%20block%3B%0A%20%20position%3A%20relative%3B%0A%20%20width%3A%204em%3B%0A%20%20height%3A%204em%3B%0A%20%20background-color%3A%20%23eee%3B%0A%20%20border%3A%200.2em%20solid%20%23fff%3B%0A%20%20border-radius%3A%202em%3B%0A%20%20z-index%3A%202%3B%0A%7D%0A%0A%23left_text%2C%20%23right_text%20%7B%0A%20%20font-size%3A%201.2em%3B%0A%20%20position%3A%20relative%3B%0A%20%20top%3A%204.5em%3B%0A%7D%0A%23left_text%20%7B%20%0A%20%20float%3A%20left%3B%0A%7D%0A%23right_text%20%7B%0A%20%20float%3A%20right%3B%0A%7D",
+        "source": "library"
+      }
+    },
+    "bundledFiles": {
+      "lib/lab.js": {
+        "type": "application/javascript"
+      },
+      "lib/lab.js.map": {
+        "type": "text/plain"
+      },
+      "lib/lab.fallback.js": {
+        "type": "application/javascript"
+      },
+      "lib/lab.legacy.js": {
+        "type": "application/javascript"
+      },
+      "lib/lab.legacy.js.map": {
+        "type": "text/plain"
+      },
+      "lib/lab.css": {
+        "type": "text/css"
+      },
+      "lib/loading.svg": {
+        "type": "image/svg+xml"
+      }
+    }
+  }
+}
